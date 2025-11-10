@@ -7,7 +7,7 @@ Let me introduce myself, I'm **Melani Uthpala**. On this occasion, I'd like to s
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://melani-my-id.netlify.app//](https://melani-my-id.netlify.app//)
+**Website Link:** [https://melani-my-portfolio.netlify.app///](https://melani-my-portfolio.netlify.app///)
 
 ## 🛠️ Tech Stack
 
@@ -240,7 +240,7 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Melani Uthpala**
 
-  - Website: [https://melani-my-id.netlify.app/](https://melani-my-id.netlify.app/)
+  - Website: [https://melani-my-portfolio.netlify.app//](https://melani-my-portfolio.netlify.app//)
   - GitHub: [Melani](https://github.com/melaniUthpala)
 
 -----
